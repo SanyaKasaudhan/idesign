@@ -2,7 +2,7 @@ import React from "react";
 import { Card, Container, Row, Col } from "react-bootstrap";
 import NumberFormat from "react-number-format";
 import { View, Text } from "react";
-// import "./Product.css";
+//import "./Product.css";
 
 export const Productss = (item) => {
   return (
