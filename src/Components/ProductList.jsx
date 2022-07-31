@@ -43,7 +43,7 @@ export const ProductList = (product) => {
           {product.product
             // .filter(
             //   (i) => i.category === (categorytype ? categorytype : i.category)
-            // )
+            // )hj
             .map((item) => {
               return (
                 <div key={item.id}>
